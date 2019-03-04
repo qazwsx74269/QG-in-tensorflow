@@ -8,6 +8,7 @@ The code reimplements the idea in 《Learning to Ask: Neural Question Generation
 2 layers bi-lstm encoder + 2 layers bi-lstm decoder + lulong attention  
 In predicted stage, beam search + replace UNK.  
 # usage
+`cd code`  
 `bash run.sh`  
 
 If you have any questions, welcome to contact to me!
